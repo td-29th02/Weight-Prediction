@@ -204,7 +204,7 @@ async def get_form():
     return """
     <html>
         <head>
-            <title>Dự đoán cân nặng</title>
+            <title>Dự Đoán Cân Nặng</title>
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         </head>
         <body>
